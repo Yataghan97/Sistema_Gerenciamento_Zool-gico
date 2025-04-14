@@ -15,7 +15,6 @@ Testando a API
 
 Contribuição
 
-Licença
 
 ### Visão Geral
 O sistema de gerenciamento de zoológico permite:
