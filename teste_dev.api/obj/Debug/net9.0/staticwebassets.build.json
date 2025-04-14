@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2GkPo2IprCRve9miNpHrDYZyUGI681KG2VMSoAgUZGs=",
+  "Source": "teste_dev.api",
+  "BasePath": "_content/teste_dev.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
